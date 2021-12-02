@@ -1,0 +1,7 @@
+C:\Users\54926\source\repos\IteratorPattern-Native\IteratorPattern-Native\bin\Debug\IteratorPattern-Native.exe.config
+C:\Users\54926\source\repos\IteratorPattern-Native\IteratorPattern-Native\bin\Debug\IteratorPattern-Native.exe
+C:\Users\54926\source\repos\IteratorPattern-Native\IteratorPattern-Native\bin\Debug\IteratorPattern-Native.pdb
+C:\Users\54926\source\repos\IteratorPattern-Native\IteratorPattern-Native\obj\Debug\IteratorPattern-Native.csproj.AssemblyReference.cache
+C:\Users\54926\source\repos\IteratorPattern-Native\IteratorPattern-Native\obj\Debug\IteratorPattern-Native.csproj.CoreCompileInputs.cache
+C:\Users\54926\source\repos\IteratorPattern-Native\IteratorPattern-Native\obj\Debug\IteratorPattern-Native.exe
+C:\Users\54926\source\repos\IteratorPattern-Native\IteratorPattern-Native\obj\Debug\IteratorPattern-Native.pdb
